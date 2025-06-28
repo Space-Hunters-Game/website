@@ -6,7 +6,7 @@
     "attributes": [
         { "trait_type": "Id", "value": "0fe870a9-fb93-4287-9f48-b83737c04408"},
         { "trait_type": "Schema", "value": "Pass"},
-        { "trait_type": "Variant", "value": "Tech"},
+        { "trait_type": "Variant", "value": "Tech"}
     ],
     "properties": {
         "files": [
