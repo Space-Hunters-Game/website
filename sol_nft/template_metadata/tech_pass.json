@@ -1,0 +1,17 @@
+{
+    "name": "Tech Pass",
+    "symbol": "-",
+    "description": "A special access pass that unlocks advanced technology and features within the game, giving players a strategic edge.",
+    "image": "https://dd04ftebr805y.cloudfront.net/1746587241000-65fe2d33-c2d3-491d-9f30-0513f8ab67ad.png",
+    "attributes": [
+        { "trait_type": "Id", "value": "0fe870a9-fb93-4287-9f48-b83737c04408"},
+        { "trait_type": "Schema", "value": "Pass"},
+        { "trait_type": "Variant", "value": "Tech"},
+    ],
+    "properties": {
+        "files": [
+            { "uri": "https://dd04ftebr805y.cloudfront.net/1746587241000-65fe2d33-c2d3-491d-9f30-0513f8ab67ad.png" , "type": "image/png" }
+        ],
+        "category": "image"
+    }
+}
